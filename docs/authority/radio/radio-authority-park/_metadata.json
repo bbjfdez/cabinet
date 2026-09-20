@@ -228,5 +228,25 @@
         ]
      }
   ]
+},
+{
+  "id": "10",
+  "name": "Radio Authority Park (DLC 10)",
+  "date": "2026-09-20",
+  "songs": 10,
+  "size": 101720066,
+  "version": 1.0,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/radio-authority-park/optional-packages/dlc10",
+  "download_url": "https://ac.bbjprojek.org:444/infra/radio/silverlake/10.%20Radio%20Authority%20Park%20%28DLC%2010%29.mp3",
+  "hosts": [
+     {
+        "hostuser": "george lewis jr.",
+        "versions": [
+           "zero"
+        ]
+     }
+  ]
 }
 ]
