@@ -308,7 +308,7 @@
   </url>
   <url>
     <loc>https://cabinet.bbjprojek.org/docs/authority/radio/the-redpill-fm/</loc>
-    <lastmod>2025-07-05</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.6</priority>
   </url>
@@ -333,6 +333,12 @@
   <url>
     <loc>https://cabinet.bbjprojek.org/docs/authority/radio/the-redpill-fm/optional-packages/dlc4</loc>
     <lastmod>2025-09-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://cabinet.bbjprojek.org/docs/authority/radio/the-redpill-fm/optional-packages/dlc5</loc>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.6</priority>
   </url>
