@@ -105,5 +105,26 @@
      }
    ],
    "spotify_ids": "https://cabinet.bbjprojek.org/docs/authority/radio/the-redpill-fm/optional-packages/_sptracklist14.txt"
+ },
+ {
+   "id": "5",
+   "name": "The Redpill FM (DLC 5)",
+   "date": "2026-10-16",
+   "songs": 12,
+   "size": 135439266,
+   "version": 1.0,
+   "builder": "sergio",
+   "buildtype": "production",
+   "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-redpill-fm/optional-packages/dlc5",
+   "download_url": "https://ac.bbjprojek.org:444/infra/radio/redpillfm/5.%20The%20Redpill%20FM%20%28DLC%205%29.mp3",
+   "hosts": [
+      {
+        "hostuser": "jmoore",
+        "versions": [
+           "zero"
+        ]
+     }
+   ],
+   "spotify_ids": "https://cabinet.bbjprojek.org/docs/authority/radio/the-redpill-fm/optional-packages/_sptracklist15.txt"
  }
  ]
